@@ -4,8 +4,10 @@
 2、《VisualBERT: A Simple and Performant Baseline for Vision and Language 2019》--单流
 图片和文本一起建模，但是因为是单流，需要增加段编码；mask掉部分文本，使用剩余文本和图像进行还原。
 3、《Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training AAAI 2020》
-
-
+1）MaskedLanguage Modeling（MLM）：将一部分的词语进行 mask，任务是根据上下文推断该单词。
+2）Masked Object Classification（MOC）：对图像的一部分内容进行 mask，任务是对图像进行分类，此处的分类使用的依然是目标检测技术，只是单纯的将目标检测中置信度最高的一项作为分类类别。
+3）Visual-linguistic Matching（VLM）：利用 [CLS] 的最终隐藏状态来预测语言句子是否与视觉内容语义匹配，并增加了一个 FC 层。
+4、《LXMERT: Learning Cross-Modality Encoder Representations from Transformers EMNLP 2019》
 
 
 
