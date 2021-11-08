@@ -1,0 +1,14 @@
+参考链接：https://mp.weixin.qq.com/s/gyGeFHV2jlgCQaGmWBKMVQ
+1、《ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks NeurIPS 2019》--开山之作 --双流
+图片和文本分别使用Transformer进行编码，图片的Q与文本的K、V相乘，文本的Q与图片的K、V相乘。
+2、《VisualBERT: A Simple and Performant Baseline for Vision and Language 2019》--单流
+图片和文本一起建模，但是因为是单流，需要增加段编码；mask掉部分文本，使用剩余文本和图像进行还原。
+3、《Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training AAAI 2020》
+
+
+
+
+
+
+
+
