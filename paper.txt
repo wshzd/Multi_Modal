@@ -8,7 +8,24 @@
 2）Masked Object Classification（MOC）：对图像的一部分内容进行 mask，任务是对图像进行分类，此处的分类使用的依然是目标检测技术，只是单纯的将目标检测中置信度最高的一项作为分类类别。
 3）Visual-linguistic Matching（VLM）：利用 [CLS] 的最终隐藏状态来预测语言句子是否与视觉内容语义匹配，并增加了一个 FC 层。
 4、《LXMERT: Learning Cross-Modality Encoder Representations from Transformers EMNLP 2019》
-
+5、《VL-BERT: Pre-training of Generic Visual-Linguistic Representations ICLR 2020》
+6、《UNITER: UNiversal Image-TExt Representation Learning ECCV 2020》
+7、《ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data 2020》
+8、《Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers 2020》
+9、《Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks ECCV 2020》
+10、《InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining KDD 2020》
+11、《Large-Scale Adversarial Training for Vision-and-Language Representation Learning NeurIPS 2020》
+12、《ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph AAAI 2021》
+13、《ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision ICML 2021》
+14、《Learning Transferable Visual Models From Natural Language Supervision openai 2021》
+15、《UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning ACL 2021》
+16、《Zero-Shot Text-to-Image Generation openai 2021》
+大模训练方法
+1. MoE: Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer. 2017 
+2. Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism 2019
+3. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models 2019
+4. GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding ICLR 2021
+5. Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity 2021
 
 
 
