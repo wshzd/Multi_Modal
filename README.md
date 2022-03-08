@@ -8,19 +8,7 @@
 
 2109[Survey: Transformer based Video-Language Pre-training](https://arxiv.org/abs/2109.09920.pdf) by Ludan Ruan, Qin Jin
 
-2109[](https://arxiv.org/abs/2109.xxx.pdf) by 
 
-2109[](https://arxiv.org/abs/2109.xxx.pdf) by 
-
-2109[](https://arxiv.org/abs/2109.xxx.pdf) by 
-
-2109[](https://arxiv.org/abs/2109.xxx.pdf) by 
-
-2109[](https://arxiv.org/abs/2109.xxx.pdf) by 
-
-2109[](https://arxiv.org/abs/2109.xxx.pdf) by 
-
-2109[](https://arxiv.org/abs/2109.xxx.pdf) by 
 
 
 
