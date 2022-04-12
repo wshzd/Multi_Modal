@@ -21,7 +21,7 @@
 1904：[VideoBERT] from paper [Videobert: A joint model for video and language representation learning](https://arxiv.org/abs/1904.01766v2) by Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid    
 2005：[HERO](https://github.com/linjieli222/HERO) from paper [Hero: Hierarchical encoder for video+ language omni-representation pre-training](https://arxiv.org/abs/2005.00200) by Linjie Li, Yen-Chun Chen, Yu Cheng, Zhe Gan, Licheng Yu, Jingjing Liu    
 
-
+[CMU《多模态机器学习》2022课程](https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/)  
 
 
 
