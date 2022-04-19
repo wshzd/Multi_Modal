@@ -16,8 +16,9 @@
 ### CLIP extend models
 2109：[ActionCLIP](https://github.com/sallymmx/ActionCLIP) from papers [ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/abs/2109.08472) by Mengmeng Wang, Jiazheng Xing, Yong Liu  
 2111：[CLIP2TV]() from papers [CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval](https://arxiv.org/abs/2111.05610) by Zijian Gao, Jingyu Liu, Sheng Chen, Dedan Chang, Hao Zhang, Jinwei Yuan  
-2110：[A CLIP-Enhanced Method for Video-Language Understanding](https://arxiv.org/abs/2110.07137) by Guohao Li, Feng He, Zhifan Feng
+2110：[A CLIP-Enhanced Method for Video-Language Understanding](https://arxiv.org/abs/2110.07137) by Guohao Li, Feng He, Zhifan Feng  
 2110：[CLIP4Caption: CLIP for Video Caption](https://arxiv.org/abs/2110.06615) by Mingkang Tang, Zhanyu Wang, Zhenhua Liu, Fengyun Rao, Dian Li, Xiu Li  
+2110：[CLIP-Adapter](https://github.com/gaopengcuhk/clip-adapter) from papers [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://arxiv.org/pdf/2110.04544) by Peng Gao, Shijie Geng, Renrui Zhang, Teli Ma, Rongyao Fang, Yongfeng Zhang, Hongsheng Li, Yu Qiao  
 ## Video-Text
 ### Cross-Stream
 2002：[UniVL](https://github.com/microsoft/UniVL) from paper [Univilm: A unified video and language pre-training model for multimodal understanding and generation](https://arxiv.org/abs/2002.06353) by Huaishao Luo, Lei Ji, Botian Shi, Haoyang Huang, Nan Duan, Tianrui Li, Jason Li, Taroon Bharti, Ming Zhou    
