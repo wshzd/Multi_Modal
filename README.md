@@ -13,7 +13,8 @@
 ### Single-Stream
 1908：[VL-BERT](https://github.com/jackroos/VL-BERT) from paper [Vl-bert: Pre-training of generic visual-linguistic representations](https://arxiv.org/abs/1908.08530v3) by Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai    
 2001：[Image-BERT] from paper [Imagebert: Cross-modal pre-training with large-scale weak-supervised image-text data](https://arxiv.org/abs/2001.07966v1) by Di Qi, Lin Su, Jia Song, Edward Cui, Taroon Bharti, Arun Sachet   
-### CLIP extend models
+### CLIP && extend models
+2103：[CLIP](https://github.com/OpenAI/CLIP) from paper [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) by Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever  
 2109：[ActionCLIP](https://github.com/sallymmx/ActionCLIP) from papers [ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/abs/2109.08472) by Mengmeng Wang, Jiazheng Xing, Yong Liu  
 2111：[CLIP2TV]() from papers [CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval](https://arxiv.org/abs/2111.05610) by Zijian Gao, Jingyu Liu, Sheng Chen, Dedan Chang, Hao Zhang, Jinwei Yuan  
 2110：[A CLIP-Enhanced Method for Video-Language Understanding](https://arxiv.org/abs/2110.07137) by Guohao Li, Feng He, Zhifan Feng  
