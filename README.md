@@ -12,7 +12,9 @@
 2006：[ERNIE-ViL]() from paper [Ernie-vil: Knowledge enhanced vision-language representations through scene graph](https://arxiv.org/abs/2006.16934) by Fei Yu, Jiji Tang, Weichong Yin, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang    
 ### Single-Stream
 1908：[VL-BERT](https://github.com/jackroos/VL-BERT) from paper [Vl-bert: Pre-training of generic visual-linguistic representations](https://arxiv.org/abs/1908.08530v3) by Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai    
-2001：[Image-BERT] from paper [Imagebert: Cross-modal pre-training with large-scale weak-supervised image-text data](https://arxiv.org/abs/2001.07966v1) by Di Qi, Lin Su, Jia Song, Edward Cui, Taroon Bharti, Arun Sachet    
+2001：[Image-BERT] from paper [Imagebert: Cross-modal pre-training with large-scale weak-supervised image-text data](https://arxiv.org/abs/2001.07966v1) by Di Qi, Lin Su, Jia Song, Edward Cui, Taroon Bharti, Arun Sachet   
+2109：[ActionCLIP](https://github.com/sallymmx/ActionCLIP) from papers [ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/abs/2109.08472) by Mengmeng Wang, Jiazheng Xing, Yong Liu  
+2111：[CLIP2TV]() from papers [CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval](https://arxiv.org/abs/2111.05610) by Zijian Gao, Jingyu Liu, Sheng Chen, Dedan Chang, Hao Zhang, Jinwei Yuan  
 ## Video-Text
 ### Cross-Stream
 2002：[UniVL](https://github.com/microsoft/UniVL) from paper [Univilm: A unified video and language pre-training model for multimodal understanding and generation](https://arxiv.org/abs/2002.06353) by Huaishao Luo, Lei Ji, Botian Shi, Haoyang Huang, Nan Duan, Tianrui Li, Jason Li, Taroon Bharti, Ming Zhou    
