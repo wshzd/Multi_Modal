@@ -14,7 +14,7 @@
 1908：[VL-BERT](https://github.com/jackroos/VL-BERT) from paper [Vl-bert: Pre-training of generic visual-linguistic representations](https://arxiv.org/abs/1908.08530v3) by Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai    
 2001：[Image-BERT] from paper [Imagebert: Cross-modal pre-training with large-scale weak-supervised image-text data](https://arxiv.org/abs/2001.07966v1) by Di Qi, Lin Su, Jia Song, Edward Cui, Taroon Bharti, Arun Sachet   
 ### MSRA
-2104：[LayoutXLM](https://aka.ms/layoutxlm) from paper [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/pdf/2104.08836.pdf) and [datasets](https://github.com/doc-analysis/XFUN) 
+2104：[LayoutXLM](https://aka.ms/layoutxlm) from paper [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/pdf/2104.08836.pdf) and [datasets](https://github.com/doc-analysis/XFUN)  
 2204：[LayoutLMv3](https://arxiv.org/abs/2204.08387) from paper [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) by Yupan Huang, Tengchao Lv, Lei Cui, Yutong Lu, Furu Wei  
 
 ### CLIP && extend models
