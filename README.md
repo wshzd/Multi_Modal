@@ -15,7 +15,7 @@
 2001：[Image-BERT] from paper [Imagebert: Cross-modal pre-training with large-scale weak-supervised image-text data](https://arxiv.org/abs/2001.07966v1) by Di Qi, Lin Su, Jia Song, Edward Cui, Taroon Bharti, Arun Sachet   
 ### MSRA
 1912：[LayoutLM](https://github.com/microsoft/unilm/tree/master/layoutlm) from paper[LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) by Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou  
-2012：[LayoutLMv2](https://github.com/microsoft/unilm/tree/master/layoutlmv2) from paper [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) by Yang Xu, Yiheng Xu, Tengchao Lv, Lei Cui, Furu Wei, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang, Wanxiang Che, Min Zhang, Lidong Zhou  
+2012：[LayoutLMv2]( https://aka.ms/layoutlmv2) from paper [LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](https://arxiv.org/abs/2012.14740) by Yang Xu, Yiheng Xu, Tengchao Lv, Lei Cui, Furu Wei, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang, Wanxiang Che, Min Zhang, Lidong Zhou  
 2104：[LayoutXLM](https://aka.ms/layoutxlm) from paper [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/pdf/2104.08836.pdf) and [datasets](https://github.com/doc-analysis/XFUN)  
 2204：[LayoutLMv3](https://arxiv.org/abs/2204.08387) from paper [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) by Yupan Huang, Tengchao Lv, Lei Cui, Yutong Lu, Furu Wei  
 
